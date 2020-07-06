@@ -1,24 +1,46 @@
-# README
+![beta development](https://img.shields.io/badge/beta-development-green?style=flat-square)
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 💻 Dulce-users-API (BETA)
 
-Things you may want to cover:
+Ruby on Rails template with authentication and a basic users migration. Includes testing of users with Factory Bot and RSpec.
 
-* Ruby version
+![alt text](docs/giphy.gif)
 
-* System dependencies
+## 🔨 Tools
+- Ruby on Rails
+- Devise_token_auth
+- Factory Bot
+- RSPec
 
-* Configuration
+## Testing 
 
-* Database creation
 
-* Database initialization
+```sh
+rspec 
+```
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Author
 
-* Deployment instructions
+👤 Elizabeth Villalejos
 
-* ...
+- [Github](https://github.com/misselliev)
+- [Linkedin](https://linkedin.com/ellievillalejos)
+- [Dev.to](https://dev.to/misselliev)
+- [Twitter](https://twitter.com/miss_elliev/)
+- [Instagram](https://www.instagram.com/miss_elliev/)
+- [Email](mailto:elizabeth.villalejos@gmail.com?subject=Website%20Inquiry)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+> “What simple action could you take today to produce a new momentum toward success in your life?” Tony Robbins
